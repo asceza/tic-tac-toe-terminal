@@ -1,4 +1,4 @@
-# origin idea by https://www.youtube.com/watch?v=k3c6dFtDqc8
+# original idea by https://www.youtube.com/watch?v=k3c6dFtDqc8
 
 board = list(range(1, 10))
 
